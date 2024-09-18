@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Vto10MB_logo256.png" alt="Vto10MB Logo" width="128" height="128" />
+</p>
+
 ```
 __     ___        _ ___  __  __ ____  
 \ \   / / |_ ___ / |/ _ \|  \/  | __ ) 
